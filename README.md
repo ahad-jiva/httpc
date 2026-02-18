@@ -1,2 +1,2 @@
 # httpc
-http server in C
+C networking
